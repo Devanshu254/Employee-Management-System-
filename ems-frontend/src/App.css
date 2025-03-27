@@ -1,0 +1,10 @@
+.footer {
+    position: fixed; /* Fix the footer to the bottom of the viewport */
+    bottom: 0; /* Stick it to the bottom */
+    width: 100%; /* Full width */
+    height: 50px; /* Set height */
+    background-color: black; /* Background color */
+    text-align: center; /* Center-align text */
+    color: white; /* Text color */
+    line-height: 50px; /* Vertically center text */
+}
